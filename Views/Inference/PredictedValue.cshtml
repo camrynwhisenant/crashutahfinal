@@ -1,0 +1,29 @@
+﻿<head>
+    <title>Predicted Value</title>
+</head>
+
+@*Output to show the severity of a crash*@
+
+<div class="card-shadow grid">
+    <h1>Predicted Severity Score:</h1>
+    @if (Model.PredictedValue < 1.5)
+    {
+        <h1>No Injury</h1>
+    }
+    else if (Model.PredictedValue < 2.5)
+    {
+        <h1>Possible Injury</h1>
+    }
+    else if (Model.PredictedValue < 3.5)
+    {
+        <h1>Suspected Minor Injury</h1>
+    }
+    else if (Model.PredictedValue < 4.5)
+    {
+        <h1>Suspected Serious Injury</h1>
+    }
+    else
+    {
+        <h1>Fatal</h1>
+    }
+</div>

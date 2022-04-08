@@ -1,0 +1,1216 @@
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.deps.json
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.json
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.dev.json
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.pdb
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.AssemblyReference.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfoInputs.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfo.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CoreCompileInputs.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/staticwebassets/CrashUtahProject.StaticWebAssets.Manifest.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.input.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.output.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorCoreGenerate.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CopyComplete
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.pdb
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.genruntimeconfig.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Dashboard.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Crash.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/onnxruntime_providers_shared.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.ML.OnnxRuntime.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/android/native/onnxruntime.aar
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/Info.plist
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/coreml_provider_factory.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/cpu_provider_factory.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_c_api.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Info.plist
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/onnxruntime
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/coreml_provider_factory.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/cpu_provider_factory.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_c_api.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Info.plist
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/onnxruntime
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libonnxruntime.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libonnxruntime.so
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-arm64/native/libonnxruntime.dylib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-x64/native/libonnxruntime.dylib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.lib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.lib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.lib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.lib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.lib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.lib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.lib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.lib
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Inference/PredictedValue.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Inference/Prediction.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Editor.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Delete.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.input.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminData.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminLayout.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Editor.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Routed.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/_Imports.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.output.cache
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/CrashUtahProject.dll
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminData.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminLayout.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Editor.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Routed.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/_Imports.razor.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Index.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/zacharyholland/Documents/GitHub/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Data.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.deps.json
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.json
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.dev.json
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.pdb
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.ML.OnnxRuntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/android/native/onnxruntime.aar
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/Info.plist
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/coreml_provider_factory.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/cpu_provider_factory.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_c_api.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Info.plist
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/onnxruntime
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/coreml_provider_factory.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/cpu_provider_factory.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_c_api.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Info.plist
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/onnxruntime
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libonnxruntime.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libonnxruntime.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-arm64/native/libonnxruntime.dylib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-x64/native/libonnxruntime.dylib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.lib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.lib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.lib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.lib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.lib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.lib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.lib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.lib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.AssemblyReference.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfoInputs.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfo.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CoreCompileInputs.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.input.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminData.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminLayout.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Editor.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Routed.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/_Imports.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.output.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/CrashUtahProject.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.input.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.output.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorCoreGenerate.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminData.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminLayout.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Editor.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Routed.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/_Imports.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Index.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Crash.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Dashboard.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Data.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Delete.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Editor.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Inference/PredictedValue.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Inference/Prediction.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/staticwebassets/CrashUtahProject.StaticWebAssets.Manifest.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cache
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cs
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CopyComplete
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.dll
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.pdb
+/Users/camrynwhisenant/Downloads/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.genruntimeconfig.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/onnxruntime_providers_shared.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.exe
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.deps.json
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.json
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.dev.json
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.pdb
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.ML.OnnxRuntime.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/android/native/onnxruntime.aar
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/Info.plist
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/coreml_provider_factory.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/cpu_provider_factory.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_c_api.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Info.plist
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/onnxruntime
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/coreml_provider_factory.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/cpu_provider_factory.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_c_api.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Info.plist
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/onnxruntime
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libonnxruntime.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libonnxruntime.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-arm64/native/libonnxruntime.dylib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-x64/native/libonnxruntime.dylib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.lib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.lib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.lib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.lib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.lib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.lib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.lib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.lib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfoInputs.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfo.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CoreCompileInputs.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.input.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminData.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminLayout.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Editor.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Routed.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/_Imports.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.output.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/RazorDeclaration/CrashUtahProject.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.input.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.output.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorCoreGenerate.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminData.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminLayout.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Editor.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Routed.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/_Imports.razor.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Index.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Crash.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Dashboard.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Data.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Delete.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Editor.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Inference/PredictedValue.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Inference/Prediction.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/staticwebassets/CrashUtahProject.StaticWebAssets.Manifest.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/staticwebassets/CrashUtahProject.StaticWebAssets.xml
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/scopedcss/bundle/CrashUtahProject.styles.css
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CopyComplete
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.pdb
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.genruntimeconfig.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/libman.json
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/CrashUtahProject.StaticWebAssets.xml
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.AssemblyReference.cache
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/CrashUtahProject.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+C:/Users/jensh/Downloads/CrashUtahProject 2/CrashUtahProject/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/onnxruntime_providers_shared.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/libman.json
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.StaticWebAssets.xml
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.exe
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.deps.json
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.json
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.dev.json
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.pdb
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.ML.OnnxRuntime.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/android/native/onnxruntime.aar
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/Info.plist
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/coreml_provider_factory.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/cpu_provider_factory.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_c_api.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Info.plist
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/onnxruntime
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/coreml_provider_factory.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/cpu_provider_factory.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_c_api.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Info.plist
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/onnxruntime
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libonnxruntime.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libonnxruntime.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-arm64/native/libonnxruntime.dylib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-x64/native/libonnxruntime.dylib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.lib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.lib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.lib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.lib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.lib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.lib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.lib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.lib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Github/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.AssemblyReference.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfoInputs.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfo.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CoreCompileInputs.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.MvcApplicationPartsAssemblyInfo.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.MvcApplicationPartsAssemblyInfo.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.input.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminData.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminLayout.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Editor.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Routed.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/_Imports.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.output.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/CrashUtahProject.dll
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.input.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.output.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorCoreGenerate.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminData.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminLayout.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Editor.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Routed.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/_Imports.razor.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Index.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Crash.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Dashboard.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Data.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Delete.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Editor.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Inference/PredictedValue.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Inference/Prediction.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/staticwebassets/CrashUtahProject.StaticWebAssets.Manifest.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/staticwebassets/CrashUtahProject.StaticWebAssets.xml
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/scopedcss/bundle/CrashUtahProject.styles.css
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CopyComplete
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.dll
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.pdb
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.genruntimeconfig.cache
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Analysis.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+C:/Github/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutLP.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/libman.json
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.StaticWebAssets.xml
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.deps.json
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.json
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.runtimeconfig.dev.json
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.pdb
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.ML.OnnxRuntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/android/native/onnxruntime.aar
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/Info.plist
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/coreml_provider_factory.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/cpu_provider_factory.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_c_api.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/Info.plist
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64/onnxruntime.framework/onnxruntime
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/coreml_provider_factory.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/cpu_provider_factory.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_c_api.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_api.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Headers/onnxruntime_cxx_inline.h
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/Info.plist
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/ios/native/onnxruntime.xcframework/ios-arm64_x86_64-simulator/onnxruntime.framework/onnxruntime
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libonnxruntime.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libonnxruntime.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-arm64/native/libonnxruntime.dylib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/osx.10.14-x64/native/libonnxruntime.dylib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime.lib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/onnxruntime_providers_shared.lib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime.lib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/onnxruntime_providers_shared.lib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime.lib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/onnxruntime_providers_shared.lib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime.lib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/onnxruntime_providers_shared.lib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.AssemblyReference.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfoInputs.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.AssemblyInfo.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CoreCompileInputs.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.MvcApplicationPartsAssemblyInfo.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.input.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminData.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminLayout.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Editor.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Routed.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/_Imports.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorComponent.output.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/RazorDeclaration/CrashUtahProject.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.input.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.TagHelpers.output.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorCoreGenerate.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminData.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminLayout.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Editor.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Routed.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/_Imports.razor.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Index.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Analysis.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Crash.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Dashboard.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Data.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Delete.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Editor.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Inference/PredictedValue.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Inference/Prediction.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutLP.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorAssemblyInfo.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/staticwebassets/CrashUtahProject.StaticWebAssets.Manifest.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/staticwebassets/CrashUtahProject.StaticWebAssets.xml
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cache
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.RazorTargetAssemblyInfo.cs
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.Views.pdb
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.csproj.CopyComplete
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.dll
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.pdb
+/Users/camrynwhisenant/Downloads/CrashUtah2/obj/Debug/netcoreapp3.1/CrashUtahProject.genruntimeconfig.cache
